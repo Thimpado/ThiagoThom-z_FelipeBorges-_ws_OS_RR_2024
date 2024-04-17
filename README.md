@@ -22,10 +22,10 @@ Assim, a fórmula a seguir define a sequência: Fn = Fn - 1 + Fn – 2.
 
 ### Compilação e execução
 
-Para compilar e executar os programas '''fibonacci.c''' e '''fibonacci_1000''' é necessário instalar a biblioteca GMP, a GNU Multiple-Precision Library, que é uma biblioteca de código aberto para aritmética de precisão arbitrária, trabalhando sobre inteiros, racionais e números de ponto flutuante. Essa biblioteca permite a que variáveis tenham um tamanho de bytes variável.
+Para compilar e executar os programas ´´´fibonacci.c´´´ e ´´´fibonacci_1000´´´ é necessário instalar a biblioteca GMP, a GNU Multiple-Precision Library, que é uma biblioteca de código aberto para aritmética de precisão arbitrária, trabalhando sobre inteiros, racionais e números de ponto flutuante. Essa biblioteca permite a que variáveis tenham um tamanho de bytes variável.
 
-No Linux, use esse comando para instalá-la: '''sudo apt-get install libgmp-dev'''.
-No MacOS, use esse comando para instalá-la: '''brew install gmp'''.
+No Linux, use esse comando para instalá-la: ´´´sudo apt-get install libgmp-dev´´´.
+No MacOS, use esse comando para instalá-la: ´´´brew install gmp´´´.
 
 ### Comunicação das Threads
 
